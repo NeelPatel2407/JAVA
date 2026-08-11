@@ -8,7 +8,7 @@ public class P3_partA_1_point {
     }
 
     public String toString() {
-        return "(" + x + ", " + y + ")";
+        return "("+x+", "+y+")";
     }
 
     public boolean equals(Object o) {
