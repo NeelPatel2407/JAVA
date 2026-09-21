@@ -84,7 +84,7 @@ public class P6_partB
             }
         };
 
-        WithdrawRule rule2=(account,amount)->amount<=account.getBalance();
+        WithdrawRule rule2=(acc,amount)->amount<=acc.getBalance();
 
         System.out.println("Balance: "+account.getBalance());
         System.out.println("Anonymous Class: "+rule1.allow(account,3000));
