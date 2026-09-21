@@ -41,7 +41,7 @@ interface SwitchRule
     boolean canSwitchOn(Switchable device,int hour);
 }
 
-public class P6_PartA_1
+public class P6_partA_1
 {
     public static void main(String[] args)
     {

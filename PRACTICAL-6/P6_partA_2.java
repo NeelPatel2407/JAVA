@@ -23,7 +23,7 @@ class SMSSender
     }
 }
 
-public class P6_PartA_2
+public class P6_partA_2
 {
     public static void main(String[] args)
     {
