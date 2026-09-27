@@ -89,8 +89,8 @@ class Account{
 public class P2_partB{
     public static void main(String[]args){
 
-        Customer c1=new Customer("Neel","neeupatel07@gmail.com","9726138766");
-        Customer c2=new Customer("Selvy","selvymodi5@gmail.com","8866677336");
+        Customer c1=new Customer("Neel","neelpatel@gmail.com","9766188765");
+        Customer c2=new Customer("Selvy","selvymodi@gmail.com","8886677736");
 
         Account[]accounts=new Account[3];
 
